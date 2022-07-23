@@ -1,0 +1,25 @@
+.redondo{
+   color: black; /*Color texto */
+      background: white; /* Eliminar color de fondo */
+      border: 2px solid #f5f7f7; /* Ancho de borde, estilo de línea y color */
+      border-radius: 70px; /* Esquinas redondeadas */
+      text-decoration: none;
+   
+
+      padding: 12px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 14px;
+      margin: 4px 2px;
+      -webkit-transition-duration: 0.4s; /* Safari */
+      transition-duration: 0.4s;
+      cursor: pointer;
+}
+
+
+.linea {
+  height: 60px;
+  width: 100%;
+
+}
